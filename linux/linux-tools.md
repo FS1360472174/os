@@ -16,3 +16,11 @@ yum install wireshark-*
 3. 带宽控制工具dummynet
 
 http://blog.csdn.net/fs1360472174/article/details/51340368
+
+
+4. 进程控制supervisor
+
+http://blog.csdn.net/xyang81/article/details/51555473
+
+supervisor status 查看状态，
+如果修改了配置文件，或者增加了进程，可以使用 supervisorctl update来生效
